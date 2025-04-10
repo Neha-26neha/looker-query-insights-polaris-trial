@@ -1,5 +1,5 @@
 application: query_insights {
-  label: "Query Insights"
+  label: "Query ABC"
   # url: "https://localhost:3000/bundle.js"
   file: "bundle.js"
   mount_points: {
