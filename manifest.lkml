@@ -21,7 +21,7 @@ application: query_insights {
 application: deep_insights {
   label: "Deep Insights"
   # url: "https://localhost:3000/bundle.js"
-  file: "deep_insights.js"
+  file: "deep_insights_1.js"
   mount_points: {
     dashboard_vis: yes
     dashboard_tile: yes
