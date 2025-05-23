@@ -1,5 +1,5 @@
 view: conversion_rate_analysis_india {
-  sql_table_name: `google.com.project-polaris-ai.project_polaris_ai_ds.Conversion_Rate_Analysis_India` ;;
+  sql_table_name: `google.com:project-polaris-ai.project_polaris_ai_ds.Conversion_Rate_Analysis_India` ;;
 
   dimension: inq_to_mql {
     type: number
