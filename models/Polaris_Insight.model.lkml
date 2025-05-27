@@ -25,3 +25,7 @@ explore:segment_yoy{
   view_name: segment_yoy
   case_sensitive: no
 }
+explore:engagement_yoy{
+  view_name: engagement_yoy
+  case_sensitive: no
+}
