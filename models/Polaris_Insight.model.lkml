@@ -21,3 +21,7 @@ explore:conversion_rate_analysis_india{
   view_name: conversion_rate_analysis_india
   case_sensitive: no
 }
+explore:segment_yoy{
+  view_name: segment_yoy
+  case_sensitive: no
+}
