@@ -38,10 +38,10 @@ application: deep_insights {
   }
 }
 
-application: Conversion_rate {
-  label: "Conversion rate"
+application: Conversion_rate_2 {
+  label: "Conversion rate 2"
   # url: "https://localhost:3000/bundle.js"
-  file: "conversion_rate.js"
+  file: "conversion_rate_2.js"
   mount_points: {
     dashboard_vis: yes
     dashboard_tile: yes
@@ -57,10 +57,11 @@ application: Conversion_rate {
     local_storage: yes
   }
 }
-application: Conversion_rate_2 {
-  label: "Conversion rate 2"
+
+application: yoy_insights {
+  label: "YOY insights"
   # url: "https://localhost:3000/bundle.js"
-  file: "conversion_rate_2.js"
+  file: "yoy_insights.js"
   mount_points: {
     dashboard_vis: yes
     dashboard_tile: yes
